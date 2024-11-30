@@ -4,7 +4,9 @@ Para iniciar o código siga esses passos:
 
 2- Substitua o ip das urls de chamada de API para o ipv4 da sua máquina nos arquivos:
 src/components/restaurants/index.tsx
+
 src/components/trending/index.tsx
+
 src/components/restaurantsList/index.tsx/index.tsx
 
 3- Abra dois terminais e utilize os comandos:
